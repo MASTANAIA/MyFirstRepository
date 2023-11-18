@@ -1,3 +1,7 @@
 good morning helo
+<<<<<<< HEAD
 
 good after noon
+=======
+Mastanaiah
+>>>>>>> 2cf840cc165e3c413bed07fe7bc36c1acb7569e4
